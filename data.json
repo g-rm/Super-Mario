@@ -1,0 +1,68 @@
+{
+  "info": {
+    "score": {
+      "type": "<u4",
+      "address": 8261428
+    },
+    "lives": {
+      "type": "|u1",
+      "address": 8261399
+    },
+    "coins": {
+      "type": "|u1",
+      "address": 8261055
+    },
+    "PlayerStatus": {
+      "type":"<u1",
+      "address": 8257649
+    },
+    "blocked":{
+      "type": "<u1",
+      "address": 8257655
+    },
+    "timer100":{
+      "type": "<u1",
+      "address": 8261425
+    },
+    "timer10":{
+      "type": "<u1",
+      "address": 8261426
+    },
+    "timer1":{
+      "type": "<u1",
+      "address": 8261427
+    },
+    "checkpoint": {
+      "address": 5070,
+      "type": "|i1"
+    },
+    "endOfLevel": {
+      "address": 8259846,
+      "type": "|i1"
+    },
+    "powerups": {
+      "address": 25,
+      "type": "|i1"
+    },
+    "x": {
+      "address": 148,
+      "type": "<u2"
+    },
+    "alive": {
+      "address": 8257688,
+      "type": "<u4"
+    },
+    "y": {
+      "address": 114,
+      "type": "<u4"
+    },
+    "finalFlag": {
+      "address": 8262603,
+      "type": "<u4"
+    },
+    "blockCounter": {
+      "address": 8261056,
+      "type": "<u4"
+    }
+  }
+}
