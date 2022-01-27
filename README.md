@@ -20,3 +20,7 @@ A evolução do agente durante o treino mais longo pode ser visto utilizando:
 
 
 ![Aprendizado ao longo do tempo](aprendizado.png "Rainbow")
+
+## Áudio
+
+https://open.spotify.com/episode/5RAF101laLHhjPoOihI0iO
